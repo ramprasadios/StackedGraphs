@@ -299,6 +299,7 @@
 				28A980D01FBD5A8E00120453 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
